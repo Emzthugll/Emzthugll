@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Marc Jairus
 **A passionate Web Developer**
 
-Email Me 👉 ✉️ **marcjairus0111.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **marcjairus0111@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marc-jairus-gacula-76b511262) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marcjairus0111@gmail.com) 
